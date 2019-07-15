@@ -1,0 +1,16 @@
+Earphone	3
+Motorbike	6
+Rocket	3
+Car	4
+Laptop	2
+Cap	2
+Skateboard	3
+Mug	2
+Guitar	3
+Bag	2
+Lamp	4
+Table	3
+Airplane	4
+Pistol	3
+Chair	4
+Knife	2
