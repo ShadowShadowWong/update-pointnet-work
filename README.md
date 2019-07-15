@@ -1,3 +1,5 @@
+# brefore
+this is a program with pointnet and ccf2018 dataset, so please read the author papers of pointnet, and you should konw the dataset of ccf2018(3D PCL). And following will be difference
 # PointNet.pytorch
 This repo is implementation for PointNet(https://arxiv.org/abs/1612.00593) in pytorch. The model is in `pointnet/model.py`.
 
